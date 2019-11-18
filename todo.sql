@@ -25,7 +25,7 @@ SET time_zone = "+00:00";
 -- --------------------------------------------------------
 
 --
--- table structure for table `signuptable`
+-- Table structure for table `signuptable`
 --
 
 CREATE TABLE `signuptable` (
